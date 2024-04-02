@@ -1,0 +1,2 @@
+# razor1
+mining
